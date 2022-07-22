@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/StivenDz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StivenDz&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenDz&layout=compact&langs_count=14&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joalauri&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joalauri&layout=compact&langs_count=14&theme=dark" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Stiven-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,8 +27,8 @@
   ##
  
 <div> 
-  <a href = "mailto:stivendiazh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stiven-diaz-3892aa224" target="_BLANK"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_BLANK"></a> 
+  <a href = "mailto:joalauricella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaquin-lauricella-6b09581b9" target="_BLANK"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_BLANK"></a> 
   <a href="https://instagram.com/stiven_dz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/StivenDz/StivenDz/blob/output/github-contribution-grid-snake.svg)
